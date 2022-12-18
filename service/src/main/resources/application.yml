@@ -1,0 +1,5 @@
+login.service.host: localhost
+login.service.port: 9090
+
+account.service.host: http://localhost:8899
+user.service.host: http://localhost:8898
